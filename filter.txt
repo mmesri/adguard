@@ -1,0 +1,24 @@
+!
+! Title: Mesri's Annoying Google Elements Filter
+! Description: Personalized Filter to Remove Annoying Google Search Elements
+!
+! AI Overview
+google.com##div[class="hdzaWe"]
+! Discussion and Forums Header
+google.com##div[class="Ww4FFb vt6azd"]
+! People Also Ask
+google.com##.cUnQKe
+! People Also Search For
+google.com##.oIk2Cb
+google.com##.Wt5Tfe
+! People Search Next
+google.com##.S3ylK
+! Social Media Posts
+google.com##.g.F6CFcc
+! Top Stories Header
+google.com##.JNkvid.gsrt.wp-ms
+! Top Stories / What People are Saying
+google.com##.yG4QQe.TBC9ub
+google.com##.lEorAf
+! Videos
+google.com##.vtSz8d.Ww4FFb.vt6azd
